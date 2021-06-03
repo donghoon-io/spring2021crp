@@ -4,9 +4,9 @@ title: "AI SEE YOU"
 description: "AI SEE YOU 사용자 커뮤니티"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: /mediumish-theme-jekyll
-google_analytics: 'UA-46278016-1'
-disqus: 'demowebsite'
+baseurl: /spring2021crp
+google_analytics: 'UA-124170475-1'
+disqus: 'donghuniyi-gaebalilji'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/

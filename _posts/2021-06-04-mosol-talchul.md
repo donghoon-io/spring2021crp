@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AI SEE YOU 쓰고 모쏠 탈출한 썰 (개발자님 충성^^7)"
-categories: [ Jekyll, tutorial ]
+categories: [ AI SEE YOU, review ]
 featured: true
 hidden: true
 ---

@@ -63,10 +63,14 @@ ga('send', 'pageview');
 
             <ul class="navbar-nav ml-auto">
 
+                {% if page.url == "/intro" %}
+                <li class="nav-item active">
+                {% else %}
                 <li class="nav-item">
-                    <a class="nav-link" href="{{ site.baseurl }}/about">가입인사</a>
-                    </li>
-                {% if page.url == "/" %}
+                {% endif %}
+                    <a class="nav-link" href="{{ site.baseurl }}/intro">가입인사</a>
+                </li>
+                {% if page.url == "/talk" %}
                 <li class="nav-item active">
                 {% else %}
                 <li class="nav-item">
@@ -74,16 +78,35 @@ ga('send', 'pageview');
                 <a class="nav-link" href="{{ site.baseurl }}/talk">잡담 게시판</a>
                 </li>
 
+                {% if page.url == "/love" %}
+                <li class="nav-item active">
+                {% else %}
                 <li class="nav-item">
+                {% endif %}
                 <a class="nav-link" href="{{ site.baseurl }}/love">연애 게시판</a>
                 </li>
+                
+                {% if page.url == "/breakup" %}
+                <li class="nav-item active">
+                {% else %}
                 <li class="nav-item">
+                {% endif %}
                 <a class="nav-link" href="{{ site.baseurl }}/breakup">이별 게시판</a>
                 </li>
+                
+                {% if page.url == "/info" %}
+                <li class="nav-item active">
+                {% else %}
                 <li class="nav-item">
+                {% endif %}
                 <a class="nav-link" href="{{ site.baseurl }}/info">정보 게시판</a>
                 </li>
+                
+                {% if page.url == "/qna" %}
+                <li class="nav-item active">
+                {% else %}
                 <li class="nav-item">
+                {% endif %}
                 <a class="nav-link" href="{{ site.baseurl }}/qna">Q&A</a>
                 </li>
             </ul>

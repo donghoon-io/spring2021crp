@@ -6,7 +6,7 @@ comments: true
 ---
 
 <div class="mainheading">
-    <h1 class="sitetitle">Q&A 게시판</h1>
+    <h1 class="sitetitle">QnA 게시판</h1>
     <p class="lead">
         AI SEE YOU에 관한 질의응답을 하는 게시판입니다
     </p>

@@ -22,7 +22,7 @@ comments: true
     </div>
     <div class="row">
 
-    {% for post in site.posts %}
+    {% for post in site.categories.breakup %}
 
         {% if post.featured == true %}
 

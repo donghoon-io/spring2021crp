@@ -21,7 +21,7 @@ permalink: /love
     </div>
     <div class="row">
 
-    {% for post in site.posts %}
+    {% for post in site.categories.love %}
 
         {% if post.featured == true %}
 

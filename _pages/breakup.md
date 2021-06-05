@@ -12,6 +12,8 @@ comments: true
     </p>
 </div>
 
+{% assign posts = site.data.breakup.posts%}
+
 <!-- Featured
 ================================================== -->
 <section class="featured-posts">
@@ -44,7 +46,7 @@ comments: true
 
     <div class="row listrecent">
 
-        {% for post in site.posts %}
+        {% for post in posts %}
 
         {% include postbox.html %}
 
@@ -53,12 +55,3 @@ comments: true
     </div>
 
 </section>
-
-<!-- Pagination
-================================================== -->
-<div class="bottompagination">
-<div class="pointerup"><i class="fa fa-caret-up"></i></div>
-<span class="navigation" role="navigation">
-    {% include pagination.html %}
-</span>
-</div>

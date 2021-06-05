@@ -12,6 +12,10 @@ comments: true
     </p>
 </div>
 
+{% assign posts = site.data.intro.posts %}
+
+<!-- Posts Index
+================================================== -->
 <section class="recent-posts">
 
     <div class="section-title">
@@ -22,7 +26,7 @@ comments: true
 
     <div class="row listrecent">
 
-        {% for post in site.posts %}
+        {% for post in posts %}
 
         {% include postbox.html %}
 
@@ -31,12 +35,3 @@ comments: true
     </div>
 
 </section>
-
-<!-- Pagination
-================================================== -->
-<div class="bottompagination">
-<div class="pointerup"><i class="fa fa-caret-up"></i></div>
-<span class="navigation" role="navigation">
-    {% include pagination.html %}
-</span>
-</div>

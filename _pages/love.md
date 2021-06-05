@@ -2,7 +2,6 @@
 layout: page
 title: 연애 게시판
 permalink: /love
-comments: true
 ---
 
 <div class="mainheading">
@@ -11,6 +10,8 @@ comments: true
         연애 경험을 공유하는 게시판입니다
     </p>
 </div>
+
+{% assign posts = site.data.love.posts %}
 
 <!-- Featured
 ================================================== -->
@@ -44,7 +45,7 @@ comments: true
 
     <div class="row listrecent">
 
-        {% for post in site.posts %}
+        {% for post in posts %}
 
         {% include postbox.html %}
 
@@ -53,12 +54,3 @@ comments: true
     </div>
 
 </section>
-
-<!-- Pagination
-================================================== -->
-<div class="bottompagination">
-<div class="pointerup"><i class="fa fa-caret-up"></i></div>
-<span class="navigation" role="navigation">
-    {% include pagination.html %}
-</span>
-</div>

@@ -1,4 +1,4 @@
-# 😎 Spring 2021 Creative Research Practice team project website
+# Spring 2021 Creative Research Practice - Project website
 
 Spring 2021 Creative Research Practice team project website, based upon [Mediumish](https://github.com/wowthemesnet/mediumish-theme-jekyll) theme!
 

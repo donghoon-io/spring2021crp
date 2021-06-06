@@ -3,7 +3,7 @@
 
 <div class="col-lg-4 col-md-6 mb-30px card-group">
     <div class="card h-100">
-        <div class="card-body">
+        <div class="card-body" style="background-color: rgb(255, 239, 241);">
             <h2 class="card-title">
                 <p class="text-dark" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</p>
                 {% if post.rating %}
@@ -14,7 +14,7 @@
             </h2>
             <h4 class="card-text">{{ post.description | strip_html | truncatewords: 30 }}</h4>
         </div>
-        <div class="card-footer bg-white">
+        <div class="card-footer" style="background-color: rgb(255, 239, 241);">
             <div class="wrapfooter">
                 {% if post.author %}
                 <span class="meta-footer-thumb">

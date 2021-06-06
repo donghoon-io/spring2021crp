@@ -16,6 +16,11 @@ a {
     transition: all 0.2s;
 }
 
+body {
+    background-color: pink;
+    color: #000000;
+}
+
 a:hover {
     color: #038252;
     text-decoration: none;
@@ -34,7 +39,7 @@ pre {
     background: #fff;
     border-radius: 0px;
     line-height: 1.6;
-    color: #333;
+    color: #375371;
     margin-bottom: -rem;
 }
 
@@ -98,7 +103,7 @@ section.recent-posts {
 }
 
 .nav-link {
-    color: #ff9a9a !important;
+    color: pink !important;
     font-family: 'Nanum Gothic';
     font-weight: 700;
     font-size: 15px;
@@ -152,11 +157,12 @@ section.recent-posts {
     font-size: 1.3rem;
     font-weight: 700;
     line-height: 1.25;
+    color: #375371;
 }
 
 .listfeaturedtag h4.card-text,
 .listrecent h4.card-text {
-    color: rgba(0, 0, 0, .44);
+    color: #000000;
     font-size: 0.95rem;
     line-height: 1.6;
     font-weight: 400;
@@ -205,7 +211,7 @@ section.recent-posts {
 
 .post-top-meta span {
     font-size: 0.9rem;
-    color: rgba(0, 0, 0, .44);
+    color: #375371;
     display: inline-block;
 }
 
@@ -235,7 +241,7 @@ span.author-meta {
 
 span.post-date,
 span.post-read {
-    color: rgba(0, 0, 0, .44);
+    color: #000000;
 }
 
 span.post-read-more {
@@ -313,11 +319,13 @@ span.post-read-more a:hover {
 
 .mainheading h1.sitetitle {
     font-family: Righteous;
+    color: #375371;
 }
 
 .mainheading h1.posttitle {
     font-weight: 700;
     margin-bottom: 1rem;
+    color: #375371;
 }
 
 .footer {
@@ -329,7 +337,7 @@ span.post-read-more a:hover {
     margin-top: 50px;
     margin-bottom: 62px;
     position: relative;
-    background: #fff;
+    background: pink;
 }
 
 .link-dark {

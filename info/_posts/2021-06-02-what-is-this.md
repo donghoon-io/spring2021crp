@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "[정보] 세부 기능 소개"
-categories: [ AI SEE YOU, review ]
+categories: [ LOVEGORITHM, review ]
 rating: 5
 featured: true
 hidden: true

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "AI SEE YOU 쓰고 모쏠 탈출한 썰 (개발자님 충성^^7)"
-categories: [ AI SEE YOU, review ]
+title:  "LOVEGORITHM 쓰고 모쏠 탈출한 썰 (개발자님 충성^^7)"
+categories: [ LOVEGORITHM, review ]
 rating: 5
 featured: true
 hidden: true

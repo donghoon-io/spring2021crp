@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "혹시 예측 연애 기간보다 더 길게 만나신 분들 있나요?"
-categories: [ AI SEE YOU, review ]
+categories: [ LOVEGORITHM, review ]
 rating: 4
 featured: true
 hidden: true

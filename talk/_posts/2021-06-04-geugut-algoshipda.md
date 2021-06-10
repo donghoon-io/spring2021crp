@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "[영상 공유] 님들 그알 봄? 결국 그알에서 취재했대"
-categories: [ AI SEE YOU, review ]
+categories: [ LOVEGORITHM, review ]
 rating: 5
 featured: true
 hidden: true

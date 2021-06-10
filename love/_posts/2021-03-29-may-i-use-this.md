@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "여친이 이거 깔아보랬는데 진짜 믿을만한가요"
-categories: [ AI SEE YOU, review ]
+categories: [ LOVEGORITHM, review ]
 rating: 4.5
 featured: true
 hidden: true

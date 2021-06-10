@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "[꿀팁] 궁합도 높게 측정되는 법"
-categories: [ AI SEE YOU, review ]
+categories: [ LOVEGORITHM, review ]
 rating: 5
 featured: true
 hidden: true

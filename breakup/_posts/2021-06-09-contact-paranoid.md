@@ -3,6 +3,7 @@ layout: post
 title:  "럽고리즘 쓰다가 연락강박증 와서 이별.. 이거 개발자 고소 가능한가요?"
 categories: [ LOVEGORITHM, review ]
 rating: 5
+image: "assets/images/posts/contact-paranoid.jpg"
 featured: true
 hidden: true
 ---

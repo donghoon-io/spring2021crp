@@ -8,7 +8,9 @@ featured: true
 hidden: true
 ---
 
-<small>(사진은 트위터 짤줍..^^)</small>
+<div style="text-align: center; margin-bottom: 1rem">
+<small style="text-align: center;">(사진은 트위터 짤줍..^^)</small>
+</div>
 
 와.. 나 왠만하면 커뮤니티에 글 안쓰는데 이거 안쓰면 진짜 너무 미안해서 쓴다ㅠㅠㅠ
 

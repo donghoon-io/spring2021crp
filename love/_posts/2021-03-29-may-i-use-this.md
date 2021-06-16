@@ -4,8 +4,14 @@ title:  "여친이 이거 깔아보랬는데 진짜 믿을만한가요"
 categories: [ LOVEGORITHM, review ]
 rating: 4.5
 featured: true
+image: assets/images/posts/may-i-use-this.png
 hidden: true
 ---
+
+<div style="text-align: center; margin-bottom: 1rem">
+<small style="text-align: center;">인증샷입니다! 쿄쿄</small>
+</div>
+
 
 안녕하세요 ㅎㅎ! 하도 이게 요즘 유행이라 한번 써보려고 생각은 했는데, 마침 여친이 이거 호기심에 써봤는데 엄청 신기하다고 해서 써보려고 하는데요
 

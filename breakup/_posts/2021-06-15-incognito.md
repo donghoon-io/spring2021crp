@@ -2,7 +2,7 @@
 layout: post
 title:  "상대방이 이거 몰래 쓰는거 알아버려서 찼어요"
 categories: [ LOVEGORITHM, review ]
-rating: 5
+rating: 4
 featured: true
 image: assets/images/posts/incognito.jpg
 hidden: true

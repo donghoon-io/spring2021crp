@@ -2,10 +2,13 @@
 layout: post
 title:  "LOVEGORITHM 쓰고 모쏠 탈출한 썰 (개발자님 충성^^7)"
 categories: [ LOVEGORITHM, review ]
+image: assets/images/posts/mosol-talchul.png
 rating: 5
 featured: true
 hidden: true
 ---
+
+<small>(사진은 트위터 짤줍..^^)</small>
 
 와.. 나 왠만하면 커뮤니티에 글 안쓰는데 이거 안쓰면 진짜 너무 미안해서 쓴다ㅠㅠㅠ
 

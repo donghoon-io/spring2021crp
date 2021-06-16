@@ -108,9 +108,9 @@ section.recent-posts {
 .nav-link {
     color: #ffffff !important;
     font-family: 'Nanum Gothic';
-    font-weight: 800;
-    font-size: 16px;
-    opacity: 0.85;
+    font-weight: 600;
+    letter-spacing: .3px;
+    font-size: 15px;
 }
 
 @media (min-width:992px) {

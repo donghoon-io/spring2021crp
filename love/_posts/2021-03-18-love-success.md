@@ -2,6 +2,7 @@
 layout: post
 title:  "남친과 알콩달콩 연애중!!! 궁합 98% 떴습니당"
 categories: [ LOVEGORITHM, review ]
+image: assets/images/posts/love-success.png
 rating: 5
 featured: true
 hidden: true

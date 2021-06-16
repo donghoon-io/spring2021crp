@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "럽고리즘 이거 상대방이 바람피는건 못 잡아내나 보네요"
+title:  "럽고리즘은 상대방이 바람피는건 못 잡아내나 보네요"
 categories: [ LOVEGORITHM, review ]
 image: "assets/images/posts/affair-detection-unsupported.jpg"
 rating: 5

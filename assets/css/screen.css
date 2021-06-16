@@ -109,8 +109,7 @@ section.recent-posts {
     color: #ffffff !important;
     font-family: 'Nanum Gothic';
     font-weight: 600;
-    letter-spacing: .3px;
-    font-size: 15px;
+    font-size: 14px;
 }
 
 @media (min-width:992px) {

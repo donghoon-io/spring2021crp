@@ -5,7 +5,6 @@ categories: [ LOVEGORITHM, review ]
 rating: 5
 featured: true
 hidden: true
-author: 관리인
 excerpt: 안녕하세요! 럽고리즘 팀에서 제공한 서비스 소개 영상 업로드합니다.
 ---
 [게시자: 관리인]

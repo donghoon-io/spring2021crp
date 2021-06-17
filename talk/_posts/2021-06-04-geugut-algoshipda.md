@@ -14,5 +14,5 @@ hidden: true
 한번 봐봐 솔직히 나도 이거 보고 좀 생각해보게 되더라.
 
 <div class="videoWrapper" style="margin-bottom: 2rem;">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/AzmN9cV-qtQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/gLUrmANNBiY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>

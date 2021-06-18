@@ -7,20 +7,11 @@ featured: true
 hidden: true
 ---
 
-1. 주간 럽포트
+**서비스 소개: 럽고리즘의 실시간 감정변화 분석**
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c3d94da9-06b2-42f1-8118-758c30d8d67b/_2021-06-04__12.50.08.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c3d94da9-06b2-42f1-8118-758c30d8d67b/_2021-06-04__12.50.08.png)
+안녕하세요! 럽고리즘 팀입니다. 오늘은 새로운 서비스가 업데이트 되어 여러분들께 소개드리려고 합니다😃 기존의 서비스에서 조금 더 업데이트되었습니다.
 
+<img class="featured-image" src="{{'assets/images/posts/what-is-this.png' | relative_url }}">
 
-주간 럽포트는 커플들을 위해 아주 유용한 기능이에요. 우리가 일주일동안 나눈 대화, 그리고 그동안 쌓인 데이터들을 바탕으로 이번 주의 애정 지수를 분석해주고, 관계를 위한 조언도 해준답니다. 
+기존의 실시간 분석 파트에서는 답장 속도 분석과 실시간 감정변화 분석을 제공했는데요, 이번 업데이트를 통해서 실시간 감정 변화 분석을 조금 더 자세히 볼 수 있게 되었습니다.
 
-2. 연애 기간 예측
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b9f904e7-38bf-4220-84f8-86fc0e19514c/_2021-06-04__12.50.27.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b9f904e7-38bf-4220-84f8-86fc0e19514c/_2021-06-04__12.50.27.png)
-1) 애정지수 
-
-애정 지수는 우리의 
-
-2) 서로를 향한 마음은? 
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/14c3d0ad-1b17-4d35-8d8e-4f65aa665aaa/_2021-06-06__12.40.23.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/14c3d0ad-1b17-4d35-8d8e-4f65aa665aaa/_2021-06-06__12.40.23.png)

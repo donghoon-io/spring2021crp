@@ -5,6 +5,7 @@ categories: [ LOVEGORITHM, review ]
 rating: 5
 featured: true
 hidden: true
+excerpt: 대박 얼마 전 커뮤에 올라왔던 글 핫게 가더니 공론화도 성공했네…
 ---
 
 

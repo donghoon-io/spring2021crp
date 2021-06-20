@@ -3,6 +3,7 @@ layout: post
 title:  "아니 이거 나만 이래?"
 categories: [ LOVEGORITHM, review ]
 rating: 5
+hot: true
 featured: true
 hidden: true
 ---

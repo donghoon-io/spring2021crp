@@ -44,14 +44,34 @@ title: Home
 
     {% for post in site.posts %}
 
-        {% if post.featured == true %}
+        {% if post.hot == true %}
 
             {% include featuredbox.html %}
 
         {% endif %}
 
     {% endfor %}
-
     </div>
 </section>
 
+
+<section class="featured-posts">
+    <div class="row justify-content-between">
+        <div class="col-md-6 pr-6" style="margin-top: 2rem; margin-bottom: 2rem;">
+
+            <div class="section-title">
+                <h2><span>실시간 급상승</span></h2>
+            </div>
+
+            {% include table_1.html %}
+        </div>
+        
+        <div class="col-md-6" style="margin-top: 2rem; margin-bottom: 2rem;">
+            <div class="section-title">
+                <h2><span>최신 업데이트</span></h2>
+            </div>
+            {% include table_2.html %}
+        </div>
+    </div>
+        
+</section>

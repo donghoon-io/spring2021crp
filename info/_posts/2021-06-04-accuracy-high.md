@@ -3,6 +3,7 @@ layout: post
 title:  "[꿀팁] 궁합도 높게 측정되는 법"
 categories: [ LOVEGORITHM, review ]
 rating: 5
+hot: true
 featured: true
 hidden: true
 ---

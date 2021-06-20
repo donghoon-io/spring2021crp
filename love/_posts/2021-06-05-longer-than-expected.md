@@ -4,7 +4,7 @@ title:  "혹시 예측 연애 기간보다 더 길게 만나신 분들 있나요
 categories: [ LOVEGORITHM, review ]
 rating: 4
 featured: true
-image: assets/images/posts/longer-that-expected.png
+image: assets/images/posts/longer-than-expected.png
 hidden: true
 ---
 

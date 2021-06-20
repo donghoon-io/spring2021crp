@@ -4,6 +4,7 @@ title:  "LOVEGORITHM 쓰고 모쏠 탈출한 썰 (개발자님 충성^^7)"
 categories: [ LOVEGORITHM, review ]
 image: assets/images/posts/mosol-talchul.png
 rating: 5
+hot: true
 featured: true
 hidden: true
 ---
